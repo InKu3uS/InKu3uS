@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there!! 👋
+### Welcome to my personal GitHub repository!
 
 <!--
 **InKu3uS/InKu3uS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
