@@ -41,7 +41,7 @@ Desarrollador Web FullStack Junior y apasionado del mundo del desarrollo.
   <a href="https://devnefta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:devnefta@email.com">
+  <a href="mailto:devnefta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
