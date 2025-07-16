@@ -1,6 +1,5 @@
-## 👋 Hola, soy Neftalí 
-
-Desarrollador Web FullStack Junior y apasionado del mundo del desarrollo. 
+# 👋 Hola, soy Neftalí 
+Desarrollador Web Full Stack Junior y apasionado del mundo del desarrollo. 
 
 ##
 
@@ -14,7 +13,7 @@ Desarrollador Web FullStack Junior y apasionado del mundo del desarrollo.
 
 ##
 
-## 🚀 Tecnologías y herramientas 
+### 🚀 Tecnologías y herramientas 
 <div align="center">
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
@@ -29,8 +28,9 @@ Desarrollador Web FullStack Junior y apasionado del mundo del desarrollo.
  <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="SonarQube" title="SonarQube"/>
 </div>
 
-## :link: Links
+##
 
+### :link: Links
 <div align="center">
   <a href="https://github.com/InKu3uS">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
