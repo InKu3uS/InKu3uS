@@ -48,5 +48,5 @@ Desarrollador Web Full Stack Junior y apasionado del mundo del desarrollo.
   
 ##
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7B342&letterSpacing=0.2rem&center=true&vCenter=true&random=true&width=435&lines=Gracias+por+visitar+mi+perfil" alt="Gracias por visitar mi perfil" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&weight=400&pause=1000&color=F7B342&center=true&vCenter=true&random=true&width=435&lines=Gracias+por+visitar+mi+perfil" alt="Gracias por visitar mi perfil" />
 </p>
